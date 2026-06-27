@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
