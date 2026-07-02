@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0238-product-of-array-except-self) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0125-valid-palindrome) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
