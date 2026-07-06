@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0054-spiral-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
