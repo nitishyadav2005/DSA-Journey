@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0054-spiral-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
