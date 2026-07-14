@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
 | ------- |
