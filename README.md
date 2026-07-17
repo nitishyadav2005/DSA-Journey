@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
