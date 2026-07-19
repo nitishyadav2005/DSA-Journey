@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
