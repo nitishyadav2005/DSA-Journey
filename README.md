@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1051-height-checker) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0881-boats-to-save-people) |
 ## Counting Sort
 |  |
