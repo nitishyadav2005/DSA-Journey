@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
