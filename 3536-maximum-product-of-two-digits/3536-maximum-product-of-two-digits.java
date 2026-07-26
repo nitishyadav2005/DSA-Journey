@@ -12,8 +12,6 @@ class Solution {
             dig /= 10;
         }
         Arrays.sort(arr);
-        int prod1 = arr[cnt-1]*arr[cnt-2];
-        int prod2 = arr[0]*arr[1];
-        return Math.max(prod1, prod2);
+       return arr[cnt-1]*arr[cnt-2];
     }
 }
