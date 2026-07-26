@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1051-height-checker) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2235-add-two-integers) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1051-height-checker) |
