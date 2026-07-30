@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1768-merge-strings-alternately) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0881-boats-to-save-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
