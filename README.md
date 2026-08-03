@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Matrix
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
