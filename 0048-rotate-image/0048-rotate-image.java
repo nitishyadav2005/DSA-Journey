@@ -3,7 +3,7 @@ class Solution {
     public static void reverseRows(int[][] matrix) {
     for (int i = 0; i < matrix.length; i++) {
         int left = 0;
-        int right = matrix[i].length - 1;
+        int right = matrix.length - 1;
 
         while (left < right) {
             int temp = matrix[i][left];
