@@ -19,11 +19,10 @@ class Solution {
         }
         else{
             i.next = j;
-            i = i.next;
-            j = j.next;
+            i = j;
         }
        }
-       i.next = null;
+       i.next = j;
        return head;
     }
 }
