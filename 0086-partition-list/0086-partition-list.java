@@ -10,8 +10,6 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        if(head == null) return null;
-        if(head.next == null) return head;
         ListNode t = head;
         ListNode dummy1 = new ListNode(-1);
         ListNode dummy2 = new ListNode(-1);
