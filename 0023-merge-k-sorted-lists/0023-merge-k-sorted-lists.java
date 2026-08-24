@@ -11,19 +11,41 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists.length == 0) return null;
-        ArrayList<ListNode> arr = new ArrayList<>();
+        ArrayList<ListNode> arr1 = new ArrayList<>();
         for(ListNode n : lists){
-            arr.add(n);
+            arr1.add(n);
         }
-        while(arr.size() > 1){
-            ListNode a = arr.get(arr.size()-1);
-            arr.remove(arr.size()-1);
-            ListNode b = arr.get(arr.size()-1);
-            arr.remove(arr.size()-1);
+         ArrayList<ListNode> arr2 = new ArrayList<>();
+        while(arr1.size()+arr2.size() > 1){
+            while(arr1.size() >= 2){
+            ListNode a = arr1.get(arr1.size()-1);
+            arr1.remove(arr1.size()-1);
+            ListNode b = arr1.get(arr1.size()-1);
+            arr1.remove(arr1.size()-1);
             ListNode c = merge(a,b);
-            arr.add(c);
+            arr2.add(c);
+            }
+
+            if (arr1.size() == 1) {
+                arr2.add(arr1.remove(0));
+            }
+
+            while(arr2.size() >= 2){
+            ListNode a = arr2.get(arr2.size()-1);
+            arr2.remove(arr2.size()-1);
+            ListNode b = arr2.get(arr2.size()-1);
+            arr2.remove(arr2.size()-1);
+            ListNode c = merge(a,b);
+            arr1.add(c);
+            }
+            if (arr2.size() == 1 && arr1.size() == 0) {
+                arr1.add(arr2.remove(0));
+            }
         }
-        return arr.get(0);
+         if (arr1.size() == 1) {
+            return arr1.get(0);
+         }
+        return arr2.get(0);
     }
 
     static ListNode merge(ListNode head1, ListNode head2){
