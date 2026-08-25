@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
