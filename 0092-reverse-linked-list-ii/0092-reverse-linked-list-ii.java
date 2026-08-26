@@ -1,33 +1,56 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
+
+    static ListNode reverse(ListNode head) {
+        ListNode prev = null;
+        ListNode cur = head;
+
+        while (cur != null) {
+            ListNode far = cur.next;
+            cur.next = prev;
+            prev = cur;
+            cur = far;
+        }
+
+        return prev;
+    }
+
     public ListNode reverseBetween(ListNode head, int left, int right) {
-       ArrayList<ListNode> arr = new ArrayList<>();
-       ListNode temp = head;
-       while(temp != null){
-        arr.add(temp);
-        temp = temp.next;
-       }
-       int i = left-1, j= right-1;
-       while(i<j){
-        ListNode a = arr.get(i);
-        ListNode b = arr.get(j);
-        arr.set(i,b);
-        arr.set(j,a);
-        i++;
-        j--;
-       }
-       for(i=0; i<arr.size(); i++){
-        arr.get(i).next = (i==arr.size()-1) ? null : arr.get(i+1);
-       }
-       return arr.get(0);
+
+        if (head == null || head.next == null || left == right)
+            return head;
+
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+
+        ListNode tail1 = dummy;
+
+        // Move tail1 to node before 'left'
+        for (int i = 1; i <= left - 1; i++) {
+            tail1 = tail1.next;
+        }
+
+        ListNode temp1 = tail1.next;
+
+        // Find node at 'right'
+        ListNode tail2 = temp1;
+
+        for (int i = left; i < right; i++) {
+            tail2 = tail2.next;
+        }
+
+        // Save node after 'right'
+        ListNode temp2 = tail2.next;
+
+        // Disconnect the sub-list
+        tail2.next = null;
+
+        // Reverse the sub-list
+        tail2 = reverse(temp1);
+
+        // Connect reversed sub-list
+        tail1.next = tail2;
+        temp1.next = temp2;
+
+        return dummy.next;
     }
 }
