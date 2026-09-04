@@ -32,7 +32,7 @@ class Solution {
         Node temp1 = head1;
         Node temp2 = head2;
         Node t = dummy;
-        while( temp2!= null){
+        while( temp1!= null){
             t.next = temp1;
             t = t.next;
             temp1 = temp1.next;
