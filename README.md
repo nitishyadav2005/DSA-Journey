@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0796-rotate-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
