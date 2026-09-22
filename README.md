@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3731-find-missing-elements) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Matrix
 |  |
 | ------- |
