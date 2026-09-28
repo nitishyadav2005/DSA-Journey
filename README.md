@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2413-smallest-even-multiple) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
