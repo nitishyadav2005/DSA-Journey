@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1952-three-divisors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2413-smallest-even-multiple) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1952-three-divisors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2413-smallest-even-multiple) |
 ## Heap (Priority Queue)
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
@@ -390,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
