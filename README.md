@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Euclidean Algorithm
 |  |
