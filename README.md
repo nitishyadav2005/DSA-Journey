@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0888-fair-candy-swap) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
