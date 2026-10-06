@@ -18,8 +18,8 @@ class Solution {
             }
         }
         int tot = 0;
-        for(int x : st){
-            tot += x;
+        while(st.size()>0){
+            tot += st.pop();
         }
         return tot;
     }
