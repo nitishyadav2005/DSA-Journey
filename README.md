@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0877-stone-game) |
@@ -282,10 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1025-divisor-game) |
 ## Number Theory
@@ -412,4 +415,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1952-three-divisors) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
