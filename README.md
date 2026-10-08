@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2427-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
@@ -408,10 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2427-number-of-common-factors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2427-number-of-common-factors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
