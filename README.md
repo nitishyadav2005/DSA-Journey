@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2951-find-the-peaks](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2427-number-of-common-factors) |
+| [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
