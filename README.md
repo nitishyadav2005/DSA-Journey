@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0605-can-place-flowers) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -450,5 +452,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
