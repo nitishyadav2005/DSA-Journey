@@ -5,27 +5,14 @@ class Solution {
         int n = nums.length;
         int[] nge = new int[n];
         Stack<Integer> st = new Stack<>();
-
-        Arrays.fill(nge, -1);
-
-        int max = Integer.MIN_VALUE;
-
-        for (int i = 0; i < n; i++) {
-            max = Math.max(nums[i], max);
+        for(int i=n-1; i>=0; i--){
+            st.push(nums[i]);
         }
-
-        for (int i = 2 * n - 1; i >= 0; i--) {
-            int idx = i % n;
-
-            while (!st.isEmpty() && st.peek() <= nums[idx]) {
-                st.pop();
-            }
-
-            if (i < n && !st.isEmpty()) {
-                nge[idx] = st.peek();
-            }
-
-            st.push(nums[idx]);
+        for(int i=n-1; i>=0; i--){
+        while(!st.isEmpty() && st.peek()<=nums[i]) st.pop();
+        if(st.isEmpty()) nge[i] = -1;
+        else nge[i] = st.peek();
+        st.push(nums[i]);
         }
 
         return nge;
