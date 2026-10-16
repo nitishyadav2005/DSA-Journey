@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
