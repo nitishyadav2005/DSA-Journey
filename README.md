@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
@@ -465,5 +467,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
