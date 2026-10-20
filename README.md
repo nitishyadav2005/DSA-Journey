@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3516-find-closest-person) |
