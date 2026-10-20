@@ -1,0 +1,47 @@
+class Solution {
+    static int[] pse(int[] arr){
+        int n = arr.length;
+        int pse[] = new int[n];
+        pse[0] = -1;
+        Stack<Integer> st = new Stack<>();
+        st.push(0);
+        for(int i=1; i<n; i++){
+            while(st.size() > 0 && arr[st.peek()] >= arr[i]) st.pop();
+            if(st.size() == 0) pse[i] = -1;
+            else{
+                pse[i] = st.peek();
+            }
+            st.push(i);
+        }
+        return pse;
+    }
+
+    static int[] nse(int[] arr){
+        int n = arr.length;
+        int nse[] = new int[n];
+        nse[n-1] = n;
+        Stack<Integer> st = new Stack<>();
+        st.push(n-1);
+        for(int i=n-2; i>=0; i--){
+            while(st.size() > 0 && arr[st.peek()] >= arr[i]) st.pop();
+            if(st.size() == 0) nse[i] = n;
+            else{
+                nse[i] = st.peek();
+            }
+            st.push(i);
+        }
+        return nse;
+    }
+    public int largestRectangleArea(int[] arr) {
+        int n = arr.length;
+        int []pse = pse(arr);
+        int []nse = nse(arr);
+        int area[] = new int[n];
+        int max = Integer.MIN_VALUE;
+        for(int i=0; i<n; i++){
+            area[i] = arr[i] * (nse[i] - pse[i] - 1);
+            max = Math.max(area[i], max);
+        }
+        return max;
+    }
+}
