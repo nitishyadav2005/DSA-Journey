@@ -36,11 +36,10 @@ class Solution {
         int n = arr.length;
         int []pse = pse(arr);
         int []nse = nse(arr);
-        int area[] = new int[n];
         int max = Integer.MIN_VALUE;
         for(int i=0; i<n; i++){
-            area[i] = arr[i] * (nse[i] - pse[i] - 1);
-            max = Math.max(area[i], max);
+            int area = arr[i] * (nse[i] - pse[i] - 1);
+            max = Math.max(area, max);
         }
         return max;
     }
