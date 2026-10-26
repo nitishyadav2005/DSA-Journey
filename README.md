@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0709-to-lower-case) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
