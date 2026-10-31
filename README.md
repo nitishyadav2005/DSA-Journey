@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2951-find-the-peaks](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
