@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2815-max-pair-sum-in-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2815-max-pair-sum-in-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2951-find-the-peaks](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2748-number-of-beautiful-pairs](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2748-number-of-beautiful-pairs) |
+| [2815-max-pair-sum-in-an-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2815-max-pair-sum-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
