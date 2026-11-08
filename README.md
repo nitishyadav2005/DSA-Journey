@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Union-Find
