@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0504-base-7) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
