@@ -13,8 +13,7 @@ class MyStack {
         for(int i=0; i<n-1; i++){
             q.add(q.remove());
         }
-        int front = q.remove();
-        return front;
+        return q.remove();
     }
     
     public int top() {
