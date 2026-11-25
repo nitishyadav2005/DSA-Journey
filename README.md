@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/nitishyadav2005/DSA-Journey/tree/master/0707-design-linked-list) |
 ## Primality Test
 |  |
 | ------- |
