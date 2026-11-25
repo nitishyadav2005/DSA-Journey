@@ -18,7 +18,7 @@ class MyLinkedList {
     
     public int get(int index) {
         Node temp = head;
-        for(int i=0; temp != null && i<index; i++){
+        for(int i=0;  i<index; i++){
             temp = temp.next;
         }
         if(temp == null) return -1;
@@ -77,7 +77,7 @@ class MyLinkedList {
         }
         if(temp == null || temp.next == null) return;
         temp.next = temp.next.next;
-        
+
         if(temp.next == null) {
         tail = temp;
     }
