@@ -49,7 +49,7 @@ class MyLinkedList {
             return;
         }
         Node temp = head;
-        for(int i=0;temp != null && i<index-1; i++){
+        for(int i=0; i<index-1; i++){
             temp = temp.next;
         }
         if(temp == null) return;
