@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/nitishyadav2005/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nitishyadav2005/DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3360-stone-removal-game](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nitishyadav2005/DSA-Journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Union-Find
